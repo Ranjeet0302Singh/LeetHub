@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/raphaelheinz/LeetHub-3.0/blob/main/LICENSE">
+  <a href="https://github.com/Ranjeet0302Singh/LeetHub/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license"/>
   </a>
   <a href="https://chromewebstore.google.com/u/1/detail/leethub-v3/kdkgpjpenaeoodajljkflmlnkoihkmda">
@@ -12,7 +12,7 @@
   <a href="https://chromewebstore.google.com/u/1/detail/leethub-v3/kdkgpjpenaeoodajljkflmlnkoihkmda">
     <img src="https://img.shields.io/chrome-web-store/d/kdkgpjpenaeoodajljkflmlnkoihkmda.svg" alt="users">
   </a>
-  <a href="https://github.com/raphaelheinz/LeetHub-3.0/graphs/contributors" alt="Contributors">
+  <a href="https://github.com/Ranjeet0302Singh/LeetHub/graphs/contributors" alt="Contributors">
     <img src="https://img.shields.io/github/contributors/raphaelheinz/LeetHub-3.0" />
   </a>
 </p>
@@ -66,9 +66,9 @@ In the meantime, we have added a manual synchronization button next to notes ico
 
     * Create your own OAuth app in GitHub (https://github.com/settings/applications/new) and store CLIENT_ID and CLIENT_SECRET confidentially
         * Application name: [CUSTOM]
-        * Homepage URL: https://github.com/raphaelheinz/LeetHub-3.0
+        * Homepage URL: https://github.com/Ranjeet0302Singh/LeetHub
         * Authorization callback URL: https://github.com/
-    * Download the project ZIP (<a href="https://github.com/raphaelheinz/LeetHub-3.0/releases">Releases</a>) or clone this repository
+    * Download the project ZIP (<a href="https://github.com/Ranjeet0302Singh/LeetHub/releases">Releases</a>) or clone this repository
     * Run ```npm run setup``` to install the developer dependencies
     * Update CLIENT_ID and CLIENT_SECRET in ```src/js/authorize.js``` and ```src/js/oauth2.js``` with your ids
     * Go to <a href="chrome://extensions">chrome://extensions</a>
@@ -100,5 +100,5 @@ npm run lint-test     # Test if code is linted properly
 
 Please help to further improve this awesome plugin! We would appreciate your support. Your pull requests are welcome!
 
-Don't forget to star this repository for further development of new features. If you want a particular feature, simply [request](https://github.com/raphaelheinz/LeetHub-3.0/labels/feature) for it!
+Don't forget to star this repository for further development of new features. If you want a particular feature, simply [request](https://github.com/Ranjeet0302Singh/LeetHub/labels/feature) for it!
 

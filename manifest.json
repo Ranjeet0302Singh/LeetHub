@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
-  "name": "LeetHub-3.0",
+  "name": "LeetHub",
   "description": "Automatically integrate your Leetcode submissions to GitHub",
-  "homepage_url": "https://github.com/raphaelheinz/LeetHub-3.0",
-  "version": "0.0.15",
-  "author": "Raphael Heinz",
+  "homepage_url": "https://github.com/Ranjeet0302Singh/LeetHub",
+  "version": "1.0.0",
+  "author": "Ranjeet Singh",
   "action": {
     "default_icon": "assets/thumbnail.png",
     "default_popup": "src/html/popup.html"
